@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "All We Know",
+  "base_artist": "The Chainsmokers",
+  "createdAt": "2026-02-19T00:45:18.331098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "For All We Know",
+      "artist": "Billie Holiday",
+      "has_synced": true,
+      "path": "select/01_For_All_We_Know_Billie_Holiday.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All We Know",
+      "artist": "The Chainsmokers feat. Phoebe Ryan",
+      "has_synced": true,
+      "path": "select/02_All_We_Know_The_Chainsmokers_feat._Phoebe_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All We Know",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/03_All_We_Know_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "For All We Know",
+      "artist": "Dave Brubeck",
+      "has_synced": false,
+      "path": "select/04_For_All_We_Know_Dave_Brubeck.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "For All We Know (2014 - Remaster)",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/05_For_All_We_Know_(2014_-_Remaster)_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "For All We Know",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/06_For_All_We_Know_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "For All We Know",
+      "artist": "Johnny Hartman",
+      "has_synced": false,
+      "path": "select/07_For_All_We_Know_Johnny_Hartman.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "For All We Know (1990 Remix)",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/08_For_All_We_Know_(1990_Remix)_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "For All We Know",
+      "artist": "Parov Stelar",
+      "has_synced": false,
+      "path": "select/09_For_All_We_Know_Parov_Stelar.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All We Know Is Not",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/10_All_We_Know_Is_Not_Rage.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All We Know",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/11_All_We_Know_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All We Know",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/12_All_We_Know_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "For All We Know",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/13_For_All_We_Know_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "For All We Know",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/14_For_All_We_Know_Carpenters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All We Know",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/pl_01_All_We_Know_The_Chainsmokers.txt"
+    }
+  ]
+}
